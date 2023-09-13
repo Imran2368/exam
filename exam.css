@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(223, 186, 186);
+    text-align: center;
+    
+}
+.img1{
+    width: 600px;
+    height: 400px;
+}
+
+table,tr,th,td{
+    border: 2px solid red;
+    border-collapse: collapse;
+    width: 300px;
+    margin: auto;
+    
+
+}
+h1{
+    color:blue;
+}
+fieldset{
+    width: 400px;
+    margin: auto;
+    border-radius: 4px;
+}
+#button{
+    background-color: rgb(60, 60, 226);
+    border-radius: 4px;
+}
+.gif{
+    width: 400px;
+    border-radius: 5px;
+}
+iframe{
+    width:400px;
+     height:300px; 
+     border-radius: 3px;
+}
